@@ -5,10 +5,10 @@
 ## Thông tin sinh viên
 
 - Họ và tên: [ Nguyễn Văn Thế ]
-- Mã sinh viên – Lớp: [ 2071020170 - 20-02 ]
+- Mã sinh viên – Lớp: [ 20-02 ]
 - Ngày thực hiện: [ 30/10/2026 ]
-- Link repository: [ https://github.com/Coii22/K20-Portfolio-CNTT20-02]
-- URL website: [ https://github.com/Coii22/K20-Portfolio-CNTT20-02.git ]
+- Link repository: [ https://github.com/Coii22/K20_Lab6]
+- URL website: [ https://github.com/Coii22/K20_Lab6.git ]
 - Tình huống: [x] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
